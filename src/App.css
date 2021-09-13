@@ -43,6 +43,7 @@
   color: white;
   padding: 12px 25px;
   border-radius: 5px;
+  border: white solid 1px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -56,14 +57,14 @@
   box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.322);
   transform: scale(1.01);
   /* background-color: #4CAF50; */
+  font-weight: bold;  
   background-color: #2511d3;
-  
 }
 .button2:hover{
   box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.322);
   transform: scale(1.01);
   background-color: #d10505;
-  
+  font-weight: bold;  
 }
 
 .button1 {background-color: #4caf4f00;} /* Green */
